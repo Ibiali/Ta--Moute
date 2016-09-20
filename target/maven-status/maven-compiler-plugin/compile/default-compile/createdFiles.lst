@@ -1,0 +1,6 @@
+lps2ima/contact/dao/ContactDao.class
+lps2ima/contact/exceptions/ContactInexistException.class
+lps2ima/contact/service/ContactService$1.class
+lps2ima/contact/exceptions/ContactExistException.class
+lps2ima/contact/dao/IContactDao.class
+lps2ima/contact/service/ContactService.class
